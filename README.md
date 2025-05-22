@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Junior Software Developer — curious, highly motivated, and passionate about the world of development and continuous learning. Gained hands-on experience through independent projects and teamwork during my studies. Eager to join a dynamic work environment, grow professionally, contribute my skills, and evolve as a software developer.
+My life motto: "It's better to be prepared for an opportunity that never comes than to be unprepared when one does."
+
 <!--
 **leviayelin/leviayelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
